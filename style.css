@@ -5,6 +5,7 @@
 }
 
 .container {
+  margin: auto;
   background: #000;
   width: 100%;
   max-width: 1340px;
